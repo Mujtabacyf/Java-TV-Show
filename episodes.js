@@ -4,10 +4,7 @@
 //specifically: https://api.tvmaze.com/shows/82/episodes
 
 function getOneEpisode() {
-  return {
-    id: 4952,
-    url:
-      "http://www.tvmaze.com/episodes/4952/game-of-thrones-1x01-winter-is-coming",
+  return {otgame-of-thrones-1x01-winter-is-coming",
     name: "Winter is Coming",
     season: 1,
     number: 1,
